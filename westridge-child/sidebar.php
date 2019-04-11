@@ -69,5 +69,6 @@
 					</li>
 					
 				</ul>
+				<a href="https://healthcare.utah.edu/uni/safe-ut/"><img src="https://westridge.provo.edu/wp-content/uploads/2019/03/safeUTcrisisline.jpg" alt="Link to SafeUT information"></a>
 			</section>
 		</aside>
