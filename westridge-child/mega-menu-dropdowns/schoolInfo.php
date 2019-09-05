@@ -9,7 +9,7 @@
 	<h3><img src="https://wasatch.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/parents.svg" alt="" />Parent Resources</h3>
 		<ul>
 			<li class="ext"><a href="https://grades.provo.edu/public/">Grades & Attendance (PowerSchool)</a></li>
-			<li class="int"><a href="https://wasatch.provo.edu/faculty-staff/teachers-directory/">Classrooms</a></li>
+			<li class="int"><a href="https://westridge.provo.edu/faculty-staff/teachers-directory/">Classrooms</a></li>
 			
 		</ul>	
 </div>
