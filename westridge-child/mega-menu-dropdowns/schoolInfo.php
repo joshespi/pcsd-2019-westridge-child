@@ -23,6 +23,7 @@
             <li class="int"><a href="https://westridge.provo.edu/community-council/">Community Council</a></li>
             <li class="int"><a href="https://provo.edu/transportation/find-your-bus-route/">Bus Routes</a></li>
             <li class="int"><a href="https://westridge.provo.edu/school-information/student-drop-off-and-pick-up-procedures/">Student Drop Off and Pick Up Procedures</a></li>
+            <li class="int"><a href="https://westridge.provo.edu/school-information/get-to-school-safe/">Get To School Safe</a></li>
             <li class="int"><a href="https://westridge.provo.edu/emergency-information/">Emergency Information</a></li>
 		</ul>
 </div>
